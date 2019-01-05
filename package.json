@@ -25,14 +25,17 @@
     "gatsby-source-filesystem": "^2.0.2",
     "gatsby-transformer-remark": "^2.1.6",
     "gatsby-transformer-sharp": "^2.1.3",
+    "glsl-basic-vertex-shader": "^1.0.0",
     "prismjs": "^1.15.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.13",
+    "three": "^0.100.0",
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
     "typography": "^0.16.17",
+    "typography-theme-stow-lake": "^0.16.18",
     "typography-theme-wordpress-2016": "^0.15.10"
   },
   "devDependencies": {

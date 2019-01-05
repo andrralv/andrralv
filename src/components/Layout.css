@@ -1,0 +1,27 @@
+.main-wrapper {
+    display: grid;
+    height: 100vh;
+    overflow: hidden;
+    }
+
+.first-column 
+    {background-color: blue;
+    grid-column: 1 / 4;
+    overflow: hidden;
+    }
+
+.second-column {
+    background-color: white;
+    grid-column: 4 / 8;
+    overflow: hidden;
+    color: lavender;
+    }
+
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:40px;   /* Height of the footer */
+   margin-left: 1%;
+   color: lavender;
+}
